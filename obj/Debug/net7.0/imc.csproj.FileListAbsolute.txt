@@ -1,0 +1,15 @@
+C:\Users\claud\programacao\exercicios\imc\bin\Debug\net7.0\imc.exe
+C:\Users\claud\programacao\exercicios\imc\bin\Debug\net7.0\imc.deps.json
+C:\Users\claud\programacao\exercicios\imc\bin\Debug\net7.0\imc.runtimeconfig.json
+C:\Users\claud\programacao\exercicios\imc\bin\Debug\net7.0\imc.dll
+C:\Users\claud\programacao\exercicios\imc\bin\Debug\net7.0\imc.pdb
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.csproj.AssemblyReference.cache
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.AssemblyInfoInputs.cache
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.AssemblyInfo.cs
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.csproj.CoreCompileInputs.cache
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.dll
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\refint\imc.dll
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.pdb
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\imc.genruntimeconfig.cache
+C:\Users\claud\programacao\exercicios\imc\obj\Debug\net7.0\ref\imc.dll

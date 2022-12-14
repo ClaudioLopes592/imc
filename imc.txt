@@ -1,0 +1,7 @@
+Nome: Claudio
+Idade: 68
+Peso: 76
+Altura: 1,77
+IMC: 24
+Resultado: Peso normal
+------------------------------------------
